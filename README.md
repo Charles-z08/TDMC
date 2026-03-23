@@ -38,11 +38,14 @@ bash run_TMDC_iemocap4.sh
 ### Citation:
 Please cite our paper if you find our work useful for your research:
 ```
-@article{zhuang2025tmdc,
+@inproceedings{zhuang2026tmdc,
   title={TMDC: A Two-Stage Modality Denoising and Complementation Framework for Multimodal Sentiment Analysis with Missing and Noisy Modalities},
   author={Zhuang, Yan and Liu, Minhao and Zhang, Yanru and Deng, Jiawen and Ren, Fuji},
-  journal={arXiv preprint arXiv:2511.10325},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={3},
+  pages={2281--2289},
+  year={2026}
 }
 ```
 ### Acknowledgement
